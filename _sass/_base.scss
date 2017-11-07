@@ -154,6 +154,7 @@ header {
     width: 100%;
     min-height: auto;
     @include background-cover;
+    opacity:0.85;
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
@@ -175,7 +176,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
+                color: rgba(#fff, 1);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
@@ -197,6 +198,7 @@ header {
                 p {
                     font-size: 18px;
                     max-width: 80%;
+                    margin-top: 24px;
                     margin-left: auto;
                     margin-right: auto;
                 }
@@ -348,4 +350,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
