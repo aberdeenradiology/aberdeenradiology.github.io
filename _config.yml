@@ -11,3 +11,10 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+
+# Making the portfolio
+collections:
+  portfolio:
+    output: true
+    permalink: /api/:title/
