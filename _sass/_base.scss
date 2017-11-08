@@ -281,17 +281,11 @@ header {
     @media (hover:none) {
         .portfolio-box-caption {
             opacity:1;
-            width:25%;
-            .portfolio-box-caption-content {
-                .project-category {
-                }
-                .project-name {
-                }
-            }
+            width:50%;
         }
     }
-
 }
+
 
 .call-to-action {
     h2 {
