@@ -278,6 +278,19 @@ header {
             }
         }
     }
+    @media (hover:none) {
+        .portfolio-box-caption {
+            opacity:1;
+            width:25%;
+            .portfolio-box-caption-content {
+                .project-category {
+                }
+                .project-name {
+                }
+            }
+        }
+    }
+
 }
 
 .call-to-action {
