@@ -1,2 +1,2 @@
-# roquettescience.github.io
-Website hosting for roquette.science
+# aberdeenradiology.github.io
+Website hosting for aberdeenradiologycourse.com
